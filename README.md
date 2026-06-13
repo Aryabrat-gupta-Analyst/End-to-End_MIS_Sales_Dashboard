@@ -121,3 +121,8 @@ Through this project, I gained hands-on experience in:
 This project reflects my ability to work through the complete reporting lifecycle—from raw data preparation to executive-level dashboard creation. It demonstrates practical skills relevant to MIS Executive, Reporting Analyst, and Entry-Level Data Analyst roles.
 
 By combining data preparation, analytical thinking, and interactive reporting, I converted raw sales data into a dynamic, management-ready solution that supports faster and more informed business decisions.
+
+Open to Work as MIS Executive / Reporting Analyst / Jr. Data Analyst roles in Delhi NCR. Let's connect if you're hiring or looking to collaborate!
+
+#MIS #Excel #DataAnalytics #Business_Intelligence #Dashboard #Pivot_Tables #Data_Analysis #Fresher_Jobs #OpenToWork #DelhiNCR #Advanced_Excel #Data_Visualization
+
